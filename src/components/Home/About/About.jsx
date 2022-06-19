@@ -23,7 +23,7 @@ const About = () => {
             <article className="bg-[#672b5e] text-center py-[48px] mt-5 rounded-2xl border-[1px] border-transparent hover:bg-transparent hover:border-[#672b5e] duration-300 cursor-default ">
               <MdWeb className="mx-auto text-2xl mb-4 text-[#d0a1e4]" />
               <h5>Training</h5>
-              <small className="text-slate-400 text-[11px]">Parther by Eduwork 4 Month</small>
+              <small className="text-slate-400 text-[11px]">Parther by Eduwork 5 Month</small>
             </article>
             <article className="bg-[#672b5e] text-center py-[48px] mt-5 rounded-2xl border-[1px] border-transparent hover:bg-transparent hover:border-[#672b5e] duration-300 cursor-default ">
               <VscFolderLibrary className="mx-auto text-2xl mb-4 text-[#d0a1e4]" />

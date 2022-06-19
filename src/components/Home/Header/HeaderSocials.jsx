@@ -9,7 +9,7 @@ const HeaderSocials = () => {
       <a href="https://github.com/randikasaptianda" className="hover:text-white  duration-300 " target="_blank">
         <FaGithub />
       </a>
-      <a href="https://www.linkedin.com/in/randikasaptianda/" className="hover:text-white  duration-300 " target="_blank">
+      <a href="https://www.linkedin.com/in/randika-saptianda-874863224/" className="hover:text-white  duration-300 " target="_blank">
         <BsLinkedin />
       </a>
       <a href="https://www.instagram.com/_saptianda/" className="hover:text-white  duration-300 " target="_blank">
