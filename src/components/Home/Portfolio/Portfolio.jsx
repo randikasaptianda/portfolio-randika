@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import IMG1 from "../../../assets/p5.jpg";
+import IMG1 from "../../../assets/10.JPG";
 
 const data = [
   {
