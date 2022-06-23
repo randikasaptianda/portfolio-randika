@@ -192,15 +192,9 @@ const data = [
   },
   {
     id: 32,
-    image: "https://res.cloudinary.com/sayur-kangkung/image/upload/v1655287466/Detail/31_by6hsa.jpg",
-    title: "Halaman All Review Admin",
-    desc: "Pada halaman review product keseluruhan ini ditampilkan berdasarkan ID product",
-  },
-  {
-    id: 33,
     image: "https://res.cloudinary.com/sayur-kangkung/image/upload/v1655287466/Detail/32_hdhhgj.jpg",
-    title: "Halaman All Review  Admin",
-    desc: "Setelah itu dapat menampilkan semua review pada suatu product berdasarkan ID product yang di search sebagaimana yang ada pada gambar diatas",
+    title: "Halaman All Review Admin",
+    desc: "Pada halaman review product keseluruhan ini ditampilkan berdasarkan ID product yang di search sebagaimana yang ada pada gambar diatas",
   },
 ];
 
